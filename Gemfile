@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-require 'rake/dsl_definition'
+#require 'rake/dsl_definition'
 
 gem 'rails', '3.0.9'
 
